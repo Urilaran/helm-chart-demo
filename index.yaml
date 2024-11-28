@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  python-app:
+  - apiVersion: v2
+    appVersion: "1.0"
+    created: "2024-11-28T10:16:36.9093594+03:00"
+    description: A simple Python Flask application
+    digest: 57caf2fa91aa895135a763636e1da5fefe15bd14e3536e30cbd4be49a63b6ba2
+    name: python-app
+    urls:
+    - https://urilaran.github.io/helm-chart-demo/charts/python-app-0.1.0.tgz
+    version: 0.1.0
+generated: "2024-11-28T10:16:36.9077544+03:00"
